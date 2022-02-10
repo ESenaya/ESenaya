@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif
-- https://giphy.com/stories/paving-the-way-through-dance-alvin-ailey-6ed7b74c-b569
+- https://media.giphy.com/media/cJSBvqGNnXMtKFVLhR/giphy.gif
 -->
 <div id="header" align="center">
-  <img src="https://giphy.com/stories/paving-the-way-through-dance-alvin-ailey-6ed7b74c-b569" width="100"/>
+  <img src="https://media.giphy.com/media/cJSBvqGNnXMtKFVLhR/giphy.gif" width="100"/>
 </div>
